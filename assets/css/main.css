@@ -147,3 +147,9 @@ body {
         width: 960px;
     }
 }
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1200px;
+    }
+}
